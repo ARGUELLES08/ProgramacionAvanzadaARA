@@ -1,12 +1,23 @@
 package entidades;
 
 public class Conejo{
-    public static int ojos;
-    public int orejas;
+    private int ojos;
+    private int orejas;
 
     public Conejo(int oo, int oa){
         ojos=oo;
-        orejas=oa;
-        
+        orejas=oa;   
+    }
+    public void setOrejas(int orejas){
+        this.orejas = orejas;
+    }
+    public int getOrejas(){
+        return orejas;
+    }
+    public void setOjos(int ojos){
+        this.ojos = ojos;
+    }
+    public int getOjos(){
+        return ojos;
     }
 }

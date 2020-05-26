@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoAreaTexto",
+            "request": "launch",
+            "mainClass": "CAPITULO11.Cap11_19.DemoAreaTexto",
+            "projectName": "ProgramacionAvanzadaARA_f0e2cdff"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoPanel",
+            "request": "launch",
+            "mainClass": "CAPITULO11.Cap11_18.DemoPanel",
+            "projectName": "ProgramacionAvanzadaARA_f0e2cdff"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoGridLayout",
+            "request": "launch",
+            "mainClass": "CAPITULO11.Cap11_17_3.DemoGridLayout",
+            "projectName": "ProgramacionAvanzadaARA_f0e2cdff"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoBorderLayout",
+            "request": "launch",
+            "mainClass": "CAPITULO11.Cap11_17_2.DemoBorderLayout",
+            "projectName": "ProgramacionAvanzadaARA_f0e2cdff"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoFlowLayout",
+            "request": "launch",
+            "mainClass": "CAPITULO11.Cap11_17_1.DemoFlowLayout",
+            "projectName": "ProgramacionAvanzadaARA_f0e2cdff"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoTeclas",
+            "request": "launch",
+            "mainClass": "CAPITULO11.Cap11_16.DemoTeclas",
+            "projectName": "ProgramacionAvanzadaARA_f0e2cdff"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pintor",
+            "request": "launch",
+            "mainClass": "CAPITULO11.Cap11_15.Pintor",
+            "projectName": "ProgramacionAvanzadaARA_f0e2cdff"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DetallesRaton",
+            "request": "launch",
+            "mainClass": "CAPITULO11.Cap11_14.DetallesRaton",
+            "projectName": "ProgramacionAvanzadaARA_f0e2cdff"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RastreadorRaton",
+            "request": "launch",
+            "mainClass": "CAPITULO11.Cap11_13.RastreadorRaton",
+            "projectName": "ProgramacionAvanzadaARA_f0e2cdff"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PruebaSeleccionMultiple",
+            "request": "launch",
+            "mainClass": "CAPITULO11.Cap11_12.PruebaSeleccionMultiple",
+            "projectName": "ProgramacionAvanzadaARA_f0e2cdff"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PruebaLista",
+            "request": "launch",
+            "mainClass": "CAPITULO11.Cap11_11.PruebaLista",
+            "projectName": "ProgramacionAvanzadaARA_f0e2cdff"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PruebaCuadroCombinado",
+            "request": "launch",
+            "mainClass": "CAPITULO11.Cap11_10.PruebaCuadroCombinado",
+            "projectName": "ProgramacionAvanzadaARA_f0e2cdff"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PruebaBotonOpcion",
+            "request": "launch",
+            "mainClass": "CAPITULO11.Cap11_9_2.PruebaBotonOpcion",
+            "projectName": "ProgramacionAvanzadaARA_f0e2cdff"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PruebaCasillaVerificacion",
+            "request": "launch",
+            "mainClass": "CAPITULO11.Cap11_9.PruebaCasillaVerificacion",
+            "projectName": "ProgramacionAvanzadaARA_f0e2cdff"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PruebaBoton",
+            "request": "launch",
+            "mainClass": "CAPITULO11.Cap11_8.PruebaBoton",
+            "projectName": "ProgramacionAvanzadaARA_f0e2cdff"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PruebaCampoTexto",
+            "request": "launch",
+            "mainClass": "CAPITULO11.Cap11_5.PruebaCampoTexto",
+            "projectName": "ProgramacionAvanzadaARA_f0e2cdff"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PruebaLabel",
+            "request": "launch",
+            "mainClass": "Cap11_4.PruebaLabel",
+            "projectName": "ProgramacionAvanzadaARA_f0e2cdff"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Suma",
+            "request": "launch",
+            "mainClass": "Cap11_2.Suma",
+            "projectName": "ProgramacionAvanzadaARA_f0e2cdff"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GatoMain",
+            "request": "launch",
+            "mainClass": "gatogui.GatoMain",
+            "projectName": "ProgramacionAvanzadaARA_f0e2cdff"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<ProgramacionAvanzadaARA_f0e2cdff>",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "ProgramacionAvanzadaARA_f0e2cdff"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-gui<ProgramacionAvanzadaARA_f0e2cdff>",
+            "request": "launch",
+            "mainClass": "gui",
+            "projectName": "ProgramacionAvanzadaARA_f0e2cdff"
+        }
+    ]
+}
